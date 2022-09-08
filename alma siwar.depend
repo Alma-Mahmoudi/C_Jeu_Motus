@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1607896349 source:c:\users\asus\desktop\motus\motus alma et siwar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"bib.h"
+
+1607896347 c:\users\asus\desktop\motus\motus alma et siwar\bib.h
+	<stdio.h>
+
